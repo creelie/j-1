@@ -6,3 +6,6 @@ Connes and Moscovici found that the negative eigenvalues of the self-adjoint pro
 
 - `paper/`: LaTeX source (amsart, pdflatex), figure and PDF
 - `code/`: numerical re-check of the phase and the first eigenvalues for λ = √2 (`cc -O2 -o code/theta code/theta.c -lm && python3 code/check_levels.py`); not used in any proof
+
+
+DOI: [10.5281/zenodo.24127213](https://doi.org/10.5281/zenodo.24127213) (all versions)
